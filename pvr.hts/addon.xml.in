@@ -88,7 +88,7 @@
     <description lang="fr_CA"><![CDATA[Frontal pour Tvheadend, prenant en charge la lecture en transit des télés en direct &amp; les enregistrements, le GÉP et minuteries.]]></description>
     <description lang="fr_FR"><![CDATA[Interface logicielle pour Tvheadend supportant la lecture en continu du direct télévision et des enregistrements, les guides de programme TV, les minuteries]]></description>
     <description lang="gl_ES"><![CDATA[Interface Tvheadend; soporta a transmisión de TV en directo e Gravacións, Guía, temporizadores]]></description>
-    <description lang="he_IL"><לCקATA[D[וח טלוויזיה חיה של Tvheadend. תומך בהזרמת שידורים חיים והקלטות, האזנה לרדיו, הצגת לוח שידורים ותזמון הקלטו!ת.]]></description>
+    <description lang="he_IL"><![CDATA[לקוח טלוויזיה חיה של Tvheadend. תומך בהזרמת שידורים חיים והקלטות, האזנה לרדיו, הצגת לוח שידורים ותזמון הקלטות.]]></description>
     <description lang="hr_HR"><![CDATA[Tvheadend pozadinski softver podržava gledanje i snimanje TV programa, elektronski programski vodič (EPG) i zakazano snimanje.]]></description>
     <description lang="hu_HU"><![CDATA[TVHeadend előtér-kiszolgáló. Élő adások és felvételek sugárzásának támogatása EPG-vel és időzítéssel]]></description>
     <description lang="id_ID"><![CDATA[Frontend Tvheadend; mendukung menangkap siaran TV Live &amp; Rekaman, EPG, Timer]]></description>
@@ -113,7 +113,7 @@
     <description lang="sq_AL"><![CDATA[Tvheadend frotnend përkrahën transmetimin e Live TV'së, EPG'së dhe "timer'ë"]]></description>
     <description lang="sv_SE"><![CDATA[Tvheadend frontend; stödjer strömning av direktsänd TV &amp; inspelningar, EPG, Timers]]></description>
     <description lang="szl"><![CDATA[Frontend Tvheadend; podpiyrŏ strumiyniowaniy TV, nagrań, EPG i minutnikōw]]></description>
-    <description lang="te_IN"><![CDATA[Tvheadend ఫ్రంటెండ్; Live TV &amp; రికార్డింగ్స్, EPG, టైమర్లు , స్ట్రీమింగ్ మద్దతు కలదు]]></description>
+    <description lang="te_IN"><![CDATA[Tvheadend ఫ్రంటెండ్; Live TV &amp;y రికార్డింగ్స్, EPG, టైమర్లు , స్ట్రీమింగ్ మద్దతు కలదు]]></description>
     <description lang="tg_TJ"><![CDATA[Интерфейси Tvheadend; дастгирии ҷараёни Сабтҳо, Вақтсанҷҳо, Live TV ва EPG]]></description>
     <description lang="tr_TR"><![CDATA[Tvheadend ön ucu; Canlı TV akışı ve kayıt yapabilme, EPG ve zamanlayıcıları destekler]]></description>
     <description lang="uk_UA"><![CDATA[Інтерфейс для Tvheadend; підтримує передачу і запис потокового телебачення, EPG (телегід) і таймери.]]></description>
